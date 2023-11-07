@@ -5,3 +5,10 @@ dnminer110 is a Proof of Work (PoW) consensus algorithm miner for Denaros centra
 ./dnminer110 (walletAddress)  
 
 that's it! payout is in every 24/h
+
+
+more source:
+https://github.com/denaro-coin/denaro
+
+tg:
+https://t.me/DenaroGroup
